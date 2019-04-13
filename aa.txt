@@ -1,4 +1,4 @@
-ea1  commit 多次
+ea1  commit 多次   f 修改远程  1
 ea2   asdas撒  commit 2次
      大大说的
 ea3   hfg  commit 3次
@@ -7,3 +7,4 @@ commit 2次
 四大
 commit 3次
 
+f add  
