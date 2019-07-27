@@ -13,3 +13,4 @@ eeebb33
 
 小志 bb config
 
+小志 bb commit
