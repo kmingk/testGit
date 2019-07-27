@@ -4,4 +4,8 @@ add config
 
 小志 cc config
 
+
 小志 cc commit
+
+小明 cc commit 
+
