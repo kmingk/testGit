@@ -25,3 +25,4 @@ aa33
 
 小志 aa config
 
+小明 aa commit 
